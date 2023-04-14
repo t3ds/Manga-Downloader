@@ -1,3 +1,5 @@
+##NO LONGER WORKS BECAUSE MANGADEX CHANGED THEIR ENTIRE CODE RECENTLY
+
 # Manga-Downloader
 A basic manga downloader made using Java and JavaFX
 
